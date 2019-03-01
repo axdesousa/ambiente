@@ -1,0 +1,8 @@
+firebird/data/*
+memcached/data/*
+mysql/data/*
+redis/data/*
+mariadb/data/*
+mongo/data/*
+postgres/data/*
+postgres/data
